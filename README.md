@@ -1,13 +1,11 @@
 <div align="center">
 
-# 📱 Mobile Application Development (MAD) Assignment
+# 📱 Mobile Application Development
 
 ## 👨‍💻 Vishesh Gupta
 
-B.Tech CSE-7 (2024–28)
-Roll No: 240692
-
-### 👨‍🏫 Faculty: Mr. Gautam Gupta
+B.Tech (2024–28)
+a
 
 </div>
 
@@ -228,19 +226,13 @@ git clone https://github.com/visheshgupta0404/MAD_Assignment.git
 
 ---
 
-## 📎 Submission Info
 
-* Subject: Mobile Application Development (CSE3709)
-* Assignment Type: Graded Assignment
-* Total Projects: 4
-
----
 
 <div align="center">
 
 ## 🎯 Final Note
 
 This repository showcases practical Android development skills
-and serves as both an academic submission and a portfolio project 🚀
+and serves as a portfolio project 🚀
 
 </div>

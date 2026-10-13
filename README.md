@@ -5,7 +5,7 @@
 ## 👨‍💻 Vishesh Gupta
 
 B.Tech (2024–28)
-a
+
 
 </div>
 
@@ -13,7 +13,7 @@ a
 
 ## 📌 Overview
 
-This repository contains **4 Android applications** developed as part of the **Mobile Application Development (CSE3709)** course.
+This repository contains **4 Android applications** developed as part of the **Mobile Application Development**.
 
 Each project demonstrates practical implementation of:
 
